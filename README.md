@@ -1,1 +1,1 @@
-Added Zipkin server for this application
+Added Zipkin server and sleuth for this application
